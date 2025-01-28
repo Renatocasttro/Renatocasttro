@@ -1,10 +1,16 @@
-# Olá! Me chamo Renato!
- 
-<img align="right" alt="" height="" width="480" src="src/0548dd5c3a1399ae72587cb104f9bbfd.gif">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatocasttro&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&card_width=500) 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=+Olá!+Meu+nome+é+Renato!+" alt="Typing SVG">
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatocasttro&hide_progress=true&theme=dark&card_width=500)
+##
+ 
+<img align="right" alt="" height="" width="543" src="src/0548dd5c3a1399ae72587cb104f9bbfd.gif">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatocasttro&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&card_width=451) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatocasttro&hide_progress=true&theme=dark&card_width=451)
 
 ##
 
