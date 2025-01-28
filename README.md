@@ -1,8 +1,8 @@
 # Olá! Me chamo Renato!
+ 
+<img align="right" alt="" height="" width="480" src="src/0548dd5c3a1399ae72587cb104f9bbfd.gif">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatocasttro&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&card_width=500) 
-
-<img align="right" alt="" height="374px" src="Renatocasttro/src/dev.gif">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatocasttro&hide_progress=true&theme=dark&card_width=500)
 
