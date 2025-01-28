@@ -5,12 +5,10 @@
 </div>
 
 ##
- 
-<img align="right" alt="" height="" width="450" src="src/0548dd5c3a1399ae72587cb104f9bbfd.gif">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatocasttro&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&card_width=465) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatocasttro&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&card_width=540) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatocasttro&hide_progress=true&theme=dark&card_width=465)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatocasttro&hide_progress=true&theme=dark&card_width=540)
 
 ##
 
